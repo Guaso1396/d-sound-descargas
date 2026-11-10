@@ -1,6 +1,6 @@
 # D-Sound — Descargas
 
-**[⬇️ Descargar D-Sound.apk](https://github.com/Guaso1396/d-sound-descargas/raw/main/D-Sound.apk)** · versión 1.1
+**[⬇️ Descargar D-Sound.apk](https://github.com/Guaso1396/d-sound-descargas/raw/main/D-Sound.apk)** · versión 1.2
 
 Reproductor de música para Android **sin anuncios**, con consola DJ.
 
@@ -12,9 +12,10 @@ Reproductor de música para Android **sin anuncios**, con consola DJ.
 
 ### Qué trae
 - Busca sola la música del celular y la muestra **por carpetas** (por ejemplo Música › Afaz Natural).
+- **Buscador** arriba para encontrar cualquier canción, sin importar la carpeta.
 - Círculo grande con la canción y el tiempo; se arrastra para adelantar.
-- Volumen, aleatorio y repetir.
-- Voz: **Normal**, **Sin voz** (tipo karaoke) y **Solo voz**. Es aproximado: funciona mejor cuando la voz va en el centro de la grabación.
-- Consola DJ de dos platos: CUE, tempo, KEY, TAP/SYNC de BPM, ecualizador, filtro y crossfader.
+- **Lista de reproducción**: la que ya sonó (tachada), la que suena, la que sigue y la lista completa. Se puede **ordenar** tocando las canciones en el orden deseado.
+- Voz: **Normal**, **Sin voz** y **Solo voz**, por frecuencias. Funciona mejor cuando la voz va en el centro de la grabación.
+- Consola DJ de dos platos con buscador propio.
 
 Requiere Android 7.0 o superior.
